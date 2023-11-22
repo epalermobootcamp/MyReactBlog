@@ -105,3 +105,15 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.notfound h2 {
+  color: #f1356d;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.notfound p {
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-decoration: none;
+  cursor: pointer;
+}
