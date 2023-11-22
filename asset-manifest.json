@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/epalermobootcamp/MyReactBlog/tree/main/static/css/main.de0ac695.css",
-    "main.js": "/epalermobootcamp/MyReactBlog/tree/main/static/js/main.8b699772.js",
+    "main.css": "/epalermobootcamp/MyReactBlog/tree/main/static/css/main.33ee7b11.css",
+    "main.js": "/epalermobootcamp/MyReactBlog/tree/main/static/js/main.1afc823d.js",
     "index.html": "/epalermobootcamp/MyReactBlog/tree/main/index.html",
-    "main.de0ac695.css.map": "/epalermobootcamp/MyReactBlog/tree/main/static/css/main.de0ac695.css.map",
-    "main.8b699772.js.map": "/epalermobootcamp/MyReactBlog/tree/main/static/js/main.8b699772.js.map"
+    "main.33ee7b11.css.map": "/epalermobootcamp/MyReactBlog/tree/main/static/css/main.33ee7b11.css.map",
+    "main.1afc823d.js.map": "/epalermobootcamp/MyReactBlog/tree/main/static/js/main.1afc823d.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0ac695.css",
-    "static/js/main.8b699772.js"
+    "static/css/main.33ee7b11.css",
+    "static/js/main.1afc823d.js"
   ]
 }
