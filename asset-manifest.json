@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/epalermobootcamp/MyReactBlog/tree/main/static/css/main.de0ac695.css",
+    "main.js": "/epalermobootcamp/MyReactBlog/tree/main/static/js/main.8b699772.js",
+    "index.html": "/epalermobootcamp/MyReactBlog/tree/main/index.html",
+    "main.de0ac695.css.map": "/epalermobootcamp/MyReactBlog/tree/main/static/css/main.de0ac695.css.map",
+    "main.8b699772.js.map": "/epalermobootcamp/MyReactBlog/tree/main/static/js/main.8b699772.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de0ac695.css",
+    "static/js/main.8b699772.js"
+  ]
+}
